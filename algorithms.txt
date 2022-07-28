@@ -1,0 +1,9 @@
+request input from the user asking "what is your name?"
+store input into variable "first_name"
+print the output "hello " and "first_name"
+request input from user asking "what is your age?"
+store input into variable "age"
+create the variable "current_year" with the current year
+use the "current_year" and subtract "age" to get "year_born"
+output print "Based on your age of " and "age" and " ,it looks like your were born in " and "year_born"
+

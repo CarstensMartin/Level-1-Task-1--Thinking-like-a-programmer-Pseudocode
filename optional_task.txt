@@ -1,0 +1,8 @@
+input ask the user for a number
+store the variable as "n"
+calculate "n1" by taking "n" minus 1, after calculated then devide by 6
+calculate "n2" by taking "n" plus 1, after calculated then devide by 6
+if "n1" or "n2" equals to integer
+output print the word "Prime"
+if "n1" or "n2" is not equal to integer
+output print the word "Not prime"

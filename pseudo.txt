@@ -1,0 +1,27 @@
+request input, user to enter a random number
+store input data into variable "random_number"
+if the first input equals to a number
+	convert number to a word and store as "number_word"
+	count the number of vowels in "number_word"
+	output give the number of vowels in the number
+repeat input from user until the user inputs a number
+	convert numbers to word and store as "number_word"
+	count the number of vowels in the data stored in "number_word"
+	output the number of vowels.
+
+
+
+
+
+input a range of arbitrary whole numbers
+calculate the average of all the even numbers
+	output the average of all the even numbers
+calculate the average of all the odd numbers
+	output the average of all the odd numbers
+
+
+
+
+input a list of names
+reorganise the names in alphabetical order
+output the list of names in alphabetical order
